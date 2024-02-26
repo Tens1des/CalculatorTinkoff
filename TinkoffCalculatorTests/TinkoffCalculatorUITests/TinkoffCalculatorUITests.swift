@@ -1,13 +1,13 @@
 //
-//  CalculatorTinkoffUITests.swift
-//  CalculatorTinkoffUITests
+//  TinkoffCalculatorUITests.swift
+//  TinkoffCalculatorUITests
 //
-//  Created by Роман  on 22.02.2024.
+//  Created by Роман  on 26.02.2024.
 //
 
 import XCTest
 
-final class CalculatorTinkoffUITests: XCTestCase {
+final class TinkoffCalculatorUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

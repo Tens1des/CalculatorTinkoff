@@ -1,13 +1,13 @@
 //
-//  CalculatorTinkoffUITestsLaunchTests.swift
-//  CalculatorTinkoffUITests
+//  TinkoffCalculatorUITestsLaunchTests.swift
+//  TinkoffCalculatorUITests
 //
-//  Created by Роман  on 22.02.2024.
+//  Created by Роман  on 26.02.2024.
 //
 
 import XCTest
 
-final class CalculatorTinkoffUITestsLaunchTests: XCTestCase {
+final class TinkoffCalculatorUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
